@@ -1,0 +1,20 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        int A=10;
+        int S=11;
+        System.out.println(A+S);
+        int D=12;
+        int F=13;
+        System.out.println(D*F);
+        int G=14;
+        int H=20;
+        System.out.println(G<H);
+        String J="علي";
+        String K="المشموم";
+        System.out.println(J+K);
+        
+        
+     }
+}
